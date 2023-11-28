@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "vksdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VKCOM/VKSDK-iOS.git",
+      "state" : {
+        "revision" : "4a934f077bc64c7ec9b29329b4177b8f362c144c",
+        "version" : "0.108.0"
+      }
+    }
+  ],
+  "version" : 2
+}
